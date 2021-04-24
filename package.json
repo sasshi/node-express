@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sasshi/node-express/issues"
   },
-  "homepage": "https://github.com/sasshi/node-express#readme"
+  "homepage": "https://github.com/sasshi/node-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
